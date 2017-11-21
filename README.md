@@ -1,6 +1,6 @@
 # iptables-check
 IDEA IS need to check iptables rules are configure as per ansible created file “ansible-port-allow “ where it will match two file one is iptables rules and another is ansible-port-allow 
-Linux firewall check and match with ansible created file 
+Setps:
 1.	import the template
 2.	insert all ansible allow sorce IP and Port in the /var/log/ansible-port-allow location
  
