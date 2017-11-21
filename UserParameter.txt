@@ -1,0 +1,2 @@
+UserParameter=firewall,sudo /usr/local/etc/scripts/firewall-checks.sh
+UserParameter=selinux,sudo getenforce
